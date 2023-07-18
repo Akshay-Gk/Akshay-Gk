@@ -1,4 +1,4 @@
-[![MasterHead](https://tech-radix.com/wp-content/uploads/2022/03/DevOPs.png)]
+![MasterHead](https://tech-radix.com/wp-content/uploads/2022/03/DevOPs.png)
 <h1 align="center">Hi 👋, I'm Akshay Gk</h1>
 <h3 align="center">A passionate engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
